@@ -13,6 +13,3 @@ python run.py <subdomain> <timeout>
 ```
 ex: python run.py midtrans.com 3
 ```
-
-# example url
-- ruangguru.com use without (https://, http:// or www.)
